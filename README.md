@@ -35,3 +35,11 @@ Write a program to solve the 8-puzzle problem (and its natural generalizations) 
 		 1  2  3 
 		 4  5  6 
 		 7  8  0 
+
+## Instructions
+
+- Inside Eclipse select the menu item `File` > `New` > `Java Project` to open the New Java Project wizard
+- Enter the Project Name e.g. 8-PuzzleSolver
+- Select the Java Runtime Environment (JRE) or leave it at the default. Click Finish.
+- Copy the `src` folder & `in.txt` file & overwrite them into the project root directory.
+- Now you can run & execute the project.
