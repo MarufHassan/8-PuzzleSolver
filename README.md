@@ -42,4 +42,5 @@ Write a program to solve the 8-puzzle problem (and its natural generalizations) 
 - Enter the Project Name e.g. 8-PuzzleSolver
 - Select the Java Runtime Environment (JRE) or leave it at the default. Click Finish.
 - Copy the `src` folder & `in.txt` file & overwrite them into the project root directory.
+- Go to Run Configuration & select `Main` as the Main class.
 - Now you can run & execute the project.
